@@ -1,0 +1,11 @@
+C:\Users\kiril\Downloads\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\kiril\Downloads\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\kiril\Downloads\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\kiril\Downloads\Zadanie3\obj\Debug\Zadanie3.pdb
