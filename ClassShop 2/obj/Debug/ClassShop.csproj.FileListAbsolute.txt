@@ -8,3 +8,14 @@ C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\
 C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.csproj.CoreCompileInputs.cache
 C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.exe
 C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.pdb
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\bin\Debug\ClassShop.exe.config
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\bin\Debug\ClassShop.exe
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\bin\Debug\ClassShop.pdb
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.csproj.AssemblyReference.cache
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.Form1.resources
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.Properties.Resources.resources
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.csproj.GenerateResource.cache
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.exe
+C:\Users\kiril\Downloads\zad1practice_KirillMalugin-main\zad1practice_KirillMalugin-main\ClassShop 2\obj\Debug\ClassShop.pdb

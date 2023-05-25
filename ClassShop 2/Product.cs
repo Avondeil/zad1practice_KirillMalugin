@@ -55,6 +55,27 @@ namespace ClassShop
                 }
             }
         }
+
+        public int Count
+        {
+            get
+            {
+                return count;
+            }
+            set
+            {
+                if (value >= 0)
+                {
+                    count = value;
+                    pricesc= true;
+                }
+                else
+                {
+                    MessageBox.Show("Найден некорректный ввод количества, повторите ввод");
+                    pricesc=false;
+                }
+            }
+        }
         public string Name
         {
             get
@@ -75,10 +96,9 @@ namespace ClassShop
                 }
             }
         }
-
         public string GetInfo ()
         {
-                return $"Наименование товара: {name}; Цена: {price}";
+                return $"Наименование товара: {name}; Цена: {price}; Количество: {count}";
         }
     }
 }

@@ -22,10 +22,14 @@ namespace ClassShop
         private void button1_Click (object sender, EventArgs e)
         {
             //Добавление нового товара и вывод его в listbox
-            tovar.Name = textBox1.Text; tovar.Price = decimal.Parse(textBox2.Text);
+            tovar.Name = textBox1.Text; tovar.Price = decimal.Parse(textBox2.Text); tovar.Count = int.Parse(textBox4.Text);
             if ( tovar.pricesc)
             {
-                pyaterochka.CreateProduct(textBox1.Text, decimal.Parse(textBox2.Text), 0);
+                pyaterochka.CreateProduct(textBox1.Text, decimal.Parse(textBox2.Text), tovar.Count);
+                listBox1.Items.Clear();
+                foreach (var n in pyaterochka.GetAllProduct())
+                    listBox1.Items.Add(n.GetInfo());
+                MessageBox.Show("Товар добавлен!");
             }
         }
 
@@ -34,11 +38,30 @@ namespace ClassShop
             
         }
 
-        private void button2_Click (object sender, EventArgs e)
+
+        private void button3_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Clear( );
-            foreach ( var n in pyaterochka.GetAllProduct( ))
-            listBox1.Items.Add(n.GetInfo());
+            pyaterochka.Sell(textBox3.Text, int.Parse(textBox5.Text));
+            listBox1.Items.Clear();
+            foreach (var n in pyaterochka.GetAllProduct())
+                listBox1.Items.Add(n.GetInfo());
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (pyaterochka.Profit == 0)
+                MessageBox.Show("Магазин ничего не заработал");
+            else MessageBox.Show($"Прибыль магазина: {pyaterochka.Profit} Р");
         }
     }
 }
