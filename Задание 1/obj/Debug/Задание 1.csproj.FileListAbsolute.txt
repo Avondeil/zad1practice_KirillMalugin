@@ -1,0 +1,7 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\Задание 1\obj\Debug\Задание 1.pdb

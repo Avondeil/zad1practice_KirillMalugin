@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\bin\Debug\ClassShop.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\bin\Debug\ClassShop.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\bin\Debug\ClassShop.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.Form1.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.Properties.Resources.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\ClassShop\obj\Debug\ClassShop.pdb
